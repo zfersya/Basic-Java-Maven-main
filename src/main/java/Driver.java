@@ -16,6 +16,13 @@ public class Driver {
 		
 		System.out.println("Current count:" + counter.getCount() - "Current count:" + counter.getCount() - "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount());
 		
+		counter.decrement();
+		
+		System.out.println("Current count:" + counter.getCount() - "Current count:" + counter.getCount() - "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount());
+
+		counter.decrement();
+		
+		System.out.println("Current count:" + counter.getCount() - "Current count:" + counter.getCount() - "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount()- "Current count:" + counter.getCount());
 	}
 
 }
